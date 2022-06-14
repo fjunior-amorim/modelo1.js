@@ -1,0 +1,36 @@
+body {
+    background-color: aqua;
+}
+header {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Segoe UI';
+    color: white;
+}
+section {
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.44);
+}
+div {
+   text-align: center;
+   padding: 8px;
+}
+#msg {
+    font-size: 24px;
+}
+#img {
+    width: 250px;
+    height: auto;
+    border-radius: 50%;  
+}
+footer {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
